@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py."
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 
 [package.dependencies]
 six = "*"
@@ -58,7 +58,7 @@ version = "0.8"
 description = "A backport of the dataclasses module for Python 3.6"
 category = "main"
 optional = false
-python-versions = ">=3.6, <3.7"
+python-versions = ">=3.6"
 
 [[package]]
 name = "decorator"

@@ -8,7 +8,7 @@ authors = ["Florian Vahl <git@flova.de>", "Erik Linder-Noren <eriklindernoren@gm
 license = "GPL-3.0"
 
 [tool.poetry.dependencies]
-python = ">=3.6.2"
+python = ">=3.7"
 numpy = "^1.19.5"
 torch = ">=1.8.1"
 torchvision = ">=0.8.2"
